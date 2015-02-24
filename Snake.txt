@@ -1,0 +1,9 @@
+﻿Projekt “Snake” @Karol Ugorcak, 13.01.2015
+
+Das Spiel wird innerhalb des Eclipse-Programms gestartet.
+
+Das Spiel wird von einem Spieler gesteuert. Der Spieler bewegt mit Hilfe der Pfeiltasten die Schlange, die am Anfang durch einen grünen Punkt symbolisiert ist. Seine Aufgabe ist es, alle roten Punkte, die eigentlich Äpfel darstellen sollten, aufzufangen und zu verschlingen, indem er diese mit dem Kopf der Schlange trifft. Bei jedem Verschlingen dieser roten Punkte wird sein Körper um eine Einheit grösser. Gelingt es dem Spieler, alle roten Punkte zu fangen, ohne die Grenze des Spielfeldes zu überschreiten oder seinen eigenen Körper zu treffen, gewinnt er das Spiel. Dabei wird auch seine erreichte Zeit, die er dafür brauchte, berechnet. 
+(Eine kurze Beschreibung der Spielregeln steht auch im Help-Menu im Spiel selbst.)
+
+Der Spieler kann das Spiel mit der Pause-Taste unterbrechen, dann mit dem Pfeiltastendruck im Spiel weiterfahren, mit Hilfe von JButtons neu starten oder beenden. 
+
